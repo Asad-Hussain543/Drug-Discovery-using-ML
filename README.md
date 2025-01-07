@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/drug-data-discovery
+    git clone https://github.com/Asad-Hussain543/Drug-Discovery-using-ML.git
     ```
 2. Navigate to the project directory:
     ```bash
